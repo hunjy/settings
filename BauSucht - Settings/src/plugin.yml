@@ -1,0 +1,11 @@
+name: Settings
+version: 1.3
+
+author: hunjy
+
+main: net.bausucht.hunjy.Settings
+
+commands:
+  settings:
+    usage: /command
+    aliases: [einstellungen, setui, setgui]
